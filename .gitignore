@@ -1,0 +1,8 @@
+.DS_Store
+/SHWireGuardKit.xcodeproj/xcuserdata/cj.xcuserdatad/xcschemes/xcschememanagement.plist
+/build
+/.build
+*.xcframework
+xcuserdata
+*.zip
+.swiftpm
